@@ -10,7 +10,7 @@
 Oftentimes we receive a data set that is not yet suited for supervised machine learning because it lacks the necessary target. In these cases, we can sometimes use clustering to extrapolate categories and then use the cluster labels for downstream classification. For this challenge, we'd like to see how you do at this kind of task.
 
 Create a fresh Python project (either `.py` or `.ipynb`) that does the following:
- - [ ] Downloads a clustering data set from the UCI Machine Learning Repository.
+ - [x] Downloads a clustering data set from the UCI Machine Learning Repository.
  - [ ] Performs clustering on the data. _Note: Please include an explanation of why you selected that particular clustering algorithm for this problem._
  - [ ] Plots the clusters and provides a textual interpretation of the results.
  - [ ] Transforms the cluster labels into target variables for classification.
