@@ -14,8 +14,8 @@ Create a fresh Python project (either `.py` or `.ipynb`) that does the following
  - [x] Performs clustering on the data. _Note: Please include an explanation of why you selected that particular clustering algorithm for this problem._
  - [x] Plots the clusters and provides a textual interpretation of the results.
  - [x] Transforms the cluster labels into target variables for classification.
- - [ ] Performs classification on the data using the new categorical target values. _Note: please include an explanation of why you selected that particular classification algorithm._
- - [ ] Evaluates the performance of the classifier and provides some textual interpretation.
- - [ ] Includes a sketched-out diagram (e.g. using Google draw or on paper/whiteboard) of a pipeline that integrates the above steps so that the model could be rebuilt on demand (e.g. in a production environment).
+ - [x] Performs classification on the data using the new categorical target values. _Note: please include an explanation of why you selected that particular classification algorithm._
+ - [x] Evaluates the performance of the classifier and provides some textual interpretation.
+ - [x] Includes a sketched-out diagram (e.g. using Google draw or on paper/whiteboard) of a pipeline that integrates the above steps so that the model could be rebuilt on demand (e.g. in a production environment).
 
 Save your file(s), upload them to a Github repository, and send us the link!
