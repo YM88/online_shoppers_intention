@@ -1,3 +1,12 @@
+### Click the following links to view the notebooks in NBViewer
+[001_ETL](https://nbviewer.jupyter.org/github/YM88/online_shoppers_intention/blob/master/001_ETL.ipynb)  
+[002_EDA](https://nbviewer.jupyter.org/github/YM88/online_shoppers_intention/blob/master/002_EDA_TRANSFORM.ipynb)  
+[003_CLUSTERING](https://nbviewer.jupyter.org/github/YM88/online_shoppers_intention/blob/master/003_CLUSTERING.ipynb)  
+[004_CLASSIFICATION](https://nbviewer.jupyter.org/github/YM88/online_shoppers_intention/blob/master/004_CLASSIFICATION.ipynb)
+
+
+
+
 # Welcome to the Data Science Code Challenge
  The next part of our interview process is a code challenge that will give you the opportunity to show us how you solve data science problems.
  
